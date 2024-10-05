@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Markdown
-permalink: /about/
+
+date:   2024-10-05 14:38:18 +0300
+categories: jekyll update
 ---
 
 _For the marketing term, see [Price markdown](https://en.wikipedia.org/wiki/Price_markdown)_.

@@ -38,16 +38,18 @@ Here's some words about the book _One Hundred Years..._.
 ## Links
 
 #### 1.  
-[Search for it](www.google.com).
+[Search for it](https://www.google.com).
 #### 2.  
-[You're **really, really** going to want to see this](www.dailykitten.com).
+[You're **really, really** going to want to see this](https://www.dailykitten.com).
 #### 3.  
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 #### 4.   
 Do you want to [see something fun][a fun place]?
+
+[a fun place]: https://www.zombo.com
 Well, do I have [the website for you][another fun place]!
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+
+[another fun place]: https://www.stumbleupon.com
 
 
 ## Images
